@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="examplo01">ListView Simples String</string>
+	<string name="examplo02">ListView Personalizado</string>
+	<string name="app_name">ListViewAndroid</string>
+</resources>
